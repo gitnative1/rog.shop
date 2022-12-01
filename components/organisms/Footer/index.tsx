@@ -34,7 +34,7 @@ export default function Footer() {
                             </svg>
                         </a>
                         <p className="mt-30 text-lg color-palette-1 mb-30">
-                            StoreGG membantu gamers
+                            ROG Shop membantu gamers
                             <br />
                             {' '}
                             untuk menjadi pemenang sejati
@@ -89,16 +89,16 @@ export default function Footer() {
                                 <ul className="list-unstyled">
                                     <li className="mb-6">
                                         <a href="mailto: hi@store.gg" className="text-lg color-palette-1 text-decoration-none">
-                                            hi@store.gg
+                                            hi@rog.shop
                                         </a>
                                     </li>
                                     <li className="mb-6">
                                         <a href="mailto: team@store.gg" className="text-lg color-palette-1 text-decoration-none">
-                                            team@store.gg
+                                            team@rog.shop
                                         </a>
                                     </li>
                                     <li className="mb-6">
-                                        <a href="http://maps.google.com/?q=Pasific 12, Jakarta Selatan" className="text-lg color-palette-1 text-decoration-none">
+                                        <a href="http://maps.google.com/?q=Cinere, Depok" className="text-lg color-palette-1 text-decoration-none">
                                             Cinere 007, Depok Jawa Barat
                                         </a>
                                     </li>
