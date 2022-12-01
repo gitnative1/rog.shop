@@ -43,7 +43,10 @@ export default function EditProfile() {
 
     data.append('image', user.avatar.name);
     data.append('name', user.name);
-    const response = await updateProfile(data, user.id);
+
+    const response = await updateProfile(data);
+    // const response = await updateProfile(data, user.id);
+
     if (response.error) {
       toast.error(response.message, { theme: 'colored' });
     } else {
