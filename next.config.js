@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['serve-storegg.herokuapp.com'],
+    domains: ['rogshop-server.up.railway.app'],
   },
 };
